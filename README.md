@@ -5,7 +5,7 @@ Este pequeño sistema nos permite crear empleados por categorias como gerencial,
 
 Aplicación que maneja la creacion de empleados.
 
-![C#](https://image.flaticon.com/icons/png/256/381/381704.png)
+![C#](https://image.flaticon.com/icons/png/128/381/381704.png)
 - ✨C#
 ## Funcionalidades
 
