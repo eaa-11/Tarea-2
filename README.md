@@ -22,10 +22,10 @@ empleados durante la ejecución de la aplicación.
 
 ## Tecnologias
 
-En este trabajo se implemento el uso de dos patrones de diseño como 
+En este trabajo se implemento el uso de 3 patrones de diseño como 
 
 - Singleton
 - Abstract Factory
-- Principios SOLID
 - Dependency Injection(DI)
+
 - Unity Package
