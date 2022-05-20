@@ -3,11 +3,12 @@ Este pequeño sistema nos permite crear empleados por categorias como gerencial,
 
 
 
-Aplicación que maneja la creacion de empleados.
 
-![C#](https://image.flaticon.com/icons/png/256/381/381704.png)
-- ✨C#
-## Funcionalidades
+Made with C Sharp
+<p><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="100" height="100" alt="C#" /></a></p>
+✨
+
+  ## Funcionalidades
 
 - Crear: Crear un empleado
 - Ver: Visualizar los empleados que hayan sido creados
