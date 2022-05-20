@@ -6,6 +6,7 @@ Este pequeño sistema nos permite crear empleados por categorias como gerencial,
 
 Made with C Sharp
 <p><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="100" height="100" alt="C#" /></a></p>
+<p><a rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="100" height="100" alt="Unity" /></a></p>
 ✨
 
   ## Funcionalidades
